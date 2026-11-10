@@ -1,0 +1,17 @@
+[
+  {"slug":"volkswagen","name":"Volkswagen","logo":"/assets/brands/volkswagen.svg","country":"Germany","carCount":3},
+  {"slug":"bmw","name":"BMW","logo":"/assets/brands/bmw.svg","country":"Germany","carCount":5},
+  {"slug":"mercedes-benz","name":"Mercedes-Benz","logo":"/assets/brands/mercedes-benz.svg","country":"Germany","carCount":4},
+  {"slug":"audi","name":"Audi","logo":"/assets/brands/audi.svg","country":"Germany","carCount":3},
+  {"slug":"alfa-romeo","name":"Alfa Romeo","logo":"/assets/brands/alfa-romeo.svg","country":"Italy","carCount":2},
+  {"slug":"lamborghini","name":"Lamborghini","logo":"/assets/brands/lamborghini.svg","country":"Italy","carCount":3},
+  {"slug":"ferrari","name":"Ferrari","logo":"/assets/brands/ferrari.svg","country":"Italy","carCount":4},
+  {"slug":"porsche","name":"Porsche","logo":"/assets/brands/porsche.svg","country":"Germany","carCount":5},
+  {"slug":"maserati","name":"Maserati","logo":"/assets/brands/maserati.svg","country":"Italy","carCount":2},
+  {"slug":"bentley","name":"Bentley","logo":"/assets/brands/bentley.svg","country":"United Kingdom","carCount":3},
+  {"slug":"rolls-royce","name":"Rolls-Royce","logo":"/assets/brands/rolls-royce.svg","country":"United Kingdom","carCount":2},
+  {"slug":"aston-martin","name":"Aston Martin","logo":"/assets/brands/aston-martin.svg","country":"United Kingdom","carCount":3},
+  {"slug":"mclaren","name":"McLaren","logo":"/assets/brands/mclaren.svg","country":"United Kingdom","carCount":2},
+  {"slug":"land-rover","name":"Land Rover","logo":"/assets/brands/land-rover.svg","country":"United Kingdom","carCount":0},
+  {"slug":"tesla","name":"Tesla","logo":"/assets/brands/tesla.svg","country":"USA","carCount":2}
+]
